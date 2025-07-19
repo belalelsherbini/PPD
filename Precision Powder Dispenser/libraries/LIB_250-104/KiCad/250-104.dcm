@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 250-104
+D PCB terminal block; push-button; 1.5 mm; Pin spacing 3.5 mm; 4-pole; Push-in CAGE CLAMP
+K
+F https://www.wago.com/250-104
+$ENDCMP
+#
+#End Doc Library
